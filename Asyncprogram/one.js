@@ -1,0 +1,9 @@
+setTimeout(()=>{
+    console.log("GM")
+},[4000])
+setTimeout(()=>{
+    console.log("GA")
+},[3000])
+setTimeout(()=>{
+    console.log("GN")
+},[1000])
